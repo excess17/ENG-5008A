@@ -1,0 +1,7 @@
+code: eng-5008
+description: eng-5008
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  contentTypes:
+    - contentTypes/ct1-descriptor.yaml
